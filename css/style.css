@@ -1,0 +1,560 @@
+.about {
+	background-color: #d9d9d9;
+	height: 1050px;
+	margin-top: 2px;
+	
+}
+
+.bannerBody {
+	height: 400px;
+	max-width: 100%;
+	background-color: #d9d9d9;
+	margin-top: 2px;
+}
+
+.banImg {
+	margin: 20px 240px 0 240px;
+	width: auto;
+}
+
+#banImg {
+	margin-top: 19px;
+}
+
+.description {
+	padding-top: 50px;
+}
+
+#firsFreen {
+	margin-top: -20px;
+}
+
+p {
+	font-family: Arial, sans-serif;
+	color: #383838;
+}
+
+.parPractic {
+	margin-left: -14px;
+}
+
+h1 {
+	margin: 30px 0 20px 15px;
+	font-size: 29pt;
+	text-transform: uppercase;
+	color: #57614e;
+}
+
+h2 {
+	text-transform: uppercase;
+	margin-top: -5px;
+	margin-bottom: 30px;
+	color: #57614e;
+}
+
+#hWhy {
+	margin-top: 30px;
+	margin-left: 15px;
+	color: #57614e;
+}
+.whyPar {
+	font-weight: bolder;
+	margin-top: 20px;
+}
+
+h3 {
+	color: #57614e;
+}
+
+#whyPar {
+	color: #57614e;
+	text-transform: uppercase;
+	margin: 0 0 0 0;
+}
+
+h4 {
+	text-transform: uppercase;
+	color: #626262;
+}
+
+hr {
+	border: 1px dashed #fff;
+	width: 280px;
+	margin-left: 2px;
+}
+
+#hrContact {
+	border: 1px dashed #fff;
+	width: 290px;
+	margin-left: 2px;
+}
+
+#infoCon {
+	font-weight: bolder;
+}
+
+#hrLawyers {
+	border: 1px dashed #fff;
+	width: 600px;
+	margin-left: -50px;
+}
+
+.fotoDirec {
+	display: inline;
+	margin-left: 20px;
+}
+
+.parPractic {
+	letter-spacing: 0.5px;
+}
+
+.textParag {
+	display: inline-block;
+	margin-left: 20px;
+}
+
+#pracPar {
+	margin: 53px 0 0 -10px;
+	color: #57614e;
+}
+
+#client {
+	margin-top: 100px;
+}
+
+.look {
+	margin-top: -25px;
+}
+
+.free {
+	margin-top: -20px;
+	font-size: 19pt;
+}
+
+#lookPar {
+	margin-top: -45px;
+}
+
+#version {
+	margin-top: -25px;
+}
+
+#news {
+	text-transform: uppercase;
+	font-weight: bolder;
+}
+
+.manes {
+	margin-top: 1px;
+	height: 215px;
+	max-width: 100%;
+	background-color: #e3e3e3;
+}
+ 
+.menu {
+    background-color: #57614e;
+    height: 135px;
+	position: relative;
+}
+
+.contentNews {
+	width: 100%;
+	position: absolute;
+	float: right;
+	margin-top: 42px;
+	margin-left: 620px;
+}
+
+.infoNews {
+	margin: 60px 0 0 230px;
+}
+
+p {
+	color: #626262;
+}
+#pracImg {
+	margin-top: 20px;
+	margin-left: -14px;
+}
+
+#contMan {
+	font-size: 18pt;
+	color: #626262;
+}
+
+#contManPar{
+	margin-left: 38px;
+	margin-top: -10px;
+	font-size: 18pt;
+	color: #626262;
+}
+
+.homeAddress {
+	margin: -16px 0 0 30px;
+}
+
+.glyphicon-earphone, .fa-fax, .glyphicon-envelope {
+	margin-right: 12px;
+}
+
+.glyphicon-home {
+	margin-left: -10px;
+}
+
+.contacInfo {
+	margin-left: 12px;
+}
+
+.lawyers {
+	height: 1050px;
+	width: 100%;
+	background-color: #d9d9d9;
+	margin: 2px 0 0 0;
+}
+
+.contact {
+	height: 1050px;
+	width: 100%;
+	background-color: #d9d9d9;
+	margin-top: 2px;
+}
+
+.info {
+	height: 210px;
+	width: 100%;
+	background-color: #d9d9d9;
+	margin-top: 1px;
+	padding-top: 20px;
+}
+
+.contForm {
+	position: absolute;
+	float: right;
+	margin-top: 3px;
+	margin-left: 650px;
+}
+
+.infoLawyers {
+	position: absolute;
+	float: right;
+	margin-top: 3px;
+	margin-left: 650px;
+}
+
+.news {
+	height: 1050px;
+	width: 100%;
+	background-color: #d9d9d9;
+	margin: 2px 0 0 0;
+}
+
+#send {
+	margin-top: 10px;
+	font-weight: normal;
+}
+
+.navbar-nav {
+    text-transform: uppercase;
+    padding: 40px 70px 0 0;
+}
+
+.fotoDirec {
+	font-weight: bolder;
+}
+
+.navbar-brand {
+	margin-top: 20px;
+	padding-right: 70px;
+}
+
+.navbar-brand img {
+	position: relative;
+}
+
+.navbar-default .navbar-nav > li > a {
+	color: #9daa93;
+	font-size: 13pt;
+	text-transform: uppercase;
+	margin-top: 18px;
+}
+
+.navbar-default .navbar-nav > li > a:hover {
+	color: #fff;
+}
+
+#quote {
+	margin-left: 100px;
+}
+
+#blquote {
+	margin-left: 175px;
+}
+
+.btn {
+	text-transform: uppercase;
+	background-color: #6c6c6c;
+}
+
+.btn-md {
+	width: 120px;
+	color: #fff;
+}
+
+#butCont {
+	display: inline-block;
+	width: 240px;
+	color: #fff;
+}
+
+#btnColor {
+	color: #fff;
+}
+
+#contactPar {
+	margin-top: 55px;	
+}
+
+input[type="text"], input[type="email"] {
+	width: 600px;
+}
+
+#exampleMessage {
+	width: 600px;
+}
+
+.main {
+	height: 1050px;
+	width: 100%;
+	background-color: #d9d9d9;
+	margin-top: 2px;
+}
+
+.content {
+	margin-top: -50px;
+}
+
+.sidebar {
+	margin-top: 50px;
+}
+
+.sidebarCont, .sideBarNews {
+	position: absolute;
+	float: left;
+	margin: 30px 0 0 270px;
+}
+
+li {
+    display: inline-block;
+}
+
+a {
+    display: inline-block;
+}
+
+a:link {
+	color: #626262;
+}
+
+a:visited {
+	color: #626262;
+}
+
+a:hover {
+	color: #626262;
+}
+
+a:active {
+	color: #7f7f7f;
+}
+
+.sidePar {
+	color: #94845b;
+	font-size: 13pt;
+	font-weight: bolder;
+}
+
+.why {
+	height: 430px;
+	width: 100%;
+	background-color: #d9d9d9;
+	margin-top: 1px;
+}
+
+#aboutRih {
+	margin-left: 12px;
+}
+
+footer {
+	height: 45px;
+	background-color: #4e5944;
+	display: flex;
+	flex-wrap: nowrap;
+	justify-content: space-around;
+	align-items: center;
+}
+
+.links {
+	margin: 10px 0 0-50px;
+	padding: 10px;
+}
+
+.copyright {
+	margin: 25px 0 0 330px;
+	color: #fff;
+}
+
+header {
+	background-color: #57614e;
+    height: 135px;
+    width: 100%;
+}
+
+@media (min-width: 992px) {
+
+	.navbar-header {
+		display: inline-block;
+	}
+
+	.navbar {
+		min-height: 100px;
+	}
+
+	.navbar-default {
+		border: none;
+		background: #57614e;
+	}
+
+	.nav > li > a {
+		padding: 10px;
+	}
+
+	.navbar-nav {
+		display: table;
+		float: none;
+		margin: 0 auto;
+		table-layout: fixed;
+		font-size: 1em;
+	}
+}
+
+@media (min-width: 769px) and (max-width: 992px) {
+
+	.navbar-brand {
+		height: 50%;
+		width: 50%;
+		margin-top: -10px;
+	}
+
+	.navbar-nav {
+		display: inline;
+		margin-top: -60px;
+	}
+
+	.bannerBody, .manes, .info, .about, .description, .main, .sidebar, .content, .lawyers, .news,  footer {
+		height: auto;
+		width: auto;
+	}
+
+	.copyright {
+		margin: 15px 10px 0 0;
+	}
+
+	hr {
+		width: auto;
+	}
+
+	#hrLawyers {
+		width: 450px;
+		margin-left: 1px;
+	}
+
+	#hrContact {
+		width: 200px;
+		margin-left: 2px;
+	}
+
+	.textParag {
+		margin: 10px -10px 0 0;
+	}
+}
+
+@media (min-width: 480px) and (max-width: 768px) {
+
+	.navbar-brand {
+		height: 50%;
+		width: 50%;
+		margin-top: -10px;
+	}
+
+	.navbar-nav {
+		display: inline;
+		margin-top: -60px;
+	}
+
+	.bannerBody, .manes, .info, .about, .description, .main, .sidebar, .content, .lawyers, .news,  footer {
+		height: auto;
+		width: auto;
+	}
+
+	.copyright {
+		margin: 15px 10px 0 0;
+	}
+
+	hr {
+		width: auto;
+	}
+
+	#hrLawyers {
+		width: 450px;
+		margin-left: 1px;
+	}
+
+	#hrContact {
+		width: 200px;
+		margin-left: 2px;
+	}
+
+	.textParag {
+		margin: 10px -10px 0 0;
+	}
+
+	.btn-md {
+		margin-top: 20px;
+		color: #fff;
+	}
+}
+
+@media only screen and (max-width: 480px) {
+
+	.navbar-brand {
+		display: none;
+	}
+
+	.bannerBody, .manes, .info, .about, .description, .main, .sidebar, .content, .lawyers, .news, footer {
+		height: auto;
+		width: auto;
+	}
+
+	.navbar-nav > li > a {
+		line-height: normal;
+	}
+
+	.navbar-nav {
+		display: table;
+		table-layout: fixed;
+		font-size: 1em;
+	}
+
+	.navbar-default .navbar-nav > li > a {
+		color: #fff;
+		background: #57614e;
+	}
+
+	.links {
+		margin: 0 auto;
+	}
+
+	.copyright {
+		margin: 0 auto;
+	}
+}
